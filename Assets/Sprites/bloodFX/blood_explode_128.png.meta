@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: b6eef366918d74dfbb94fe1a917770e0
+timeCreated: 1481231412
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blood_explode_128_0
+    21300002: blood_explode_128_1
+    21300004: blood_explode_128_2
+    21300006: blood_explode_128_3
+    21300008: blood_explode_128_4
+    21300010: blood_explode_128_5
+    21300012: blood_explode_128_6
+    21300014: blood_explode_128_7
+    21300016: blood_explode_128_8
+    21300018: blood_explode_128_9
+    21300020: blood_explode_128_10
+    21300022: blood_explode_128_11
+    21300024: blood_explode_128_12
+    21300026: blood_explode_128_13
+    21300028: blood_explode_128_14
+    21300030: blood_explode_128_15
+    21300032: blood_explode_128_16
+    21300034: blood_explode_128_17
+    21300036: blood_explode_128_18
+    21300038: blood_explode_128_19
+    21300040: blood_explode_128_20
+    21300042: blood_explode_128_21
+    21300044: blood_explode_128_22
+    21300046: blood_explode_128_23
+    21300048: blood_explode_128_24
+    21300050: blood_explode_128_25
+    21300052: blood_explode_128_26
+    21300054: blood_explode_128_27
+    21300056: blood_explode_128_28
+    21300058: blood_explode_128_29
+    21300060: blood_explode_128_30
+    21300062: blood_explode_128_31
+    21300064: blood_explode_128_32
+    21300066: blood_explode_128_33
+    21300068: blood_explode_128_34
+    21300070: blood_explode_128_35
+    21300072: blood_explode_128_36
+    21300074: blood_explode_128_37
+    21300076: blood_explode_128_38
+    21300078: blood_explode_128_39
+    21300080: blood_explode_128_40
+    21300082: blood_explode_128_41
+    21300084: blood_explode_128_42
+    21300086: blood_explode_128_43
+    21300088: blood_explode_128_44
+    21300090: blood_explode_128_45
+    21300092: blood_explode_128_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood_explode_128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_explode_128_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_explode_128_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_explode_128_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_explode_128_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blood_explode_128_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
